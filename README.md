@@ -5,6 +5,7 @@
 - diplo-triplo-olokliroma
 - laplace
 - sinartisis-pollon-metabliton
+- akolouthies-seires-synartisewn.wmf
 
 *Για να χρησιμοποιηθούν τα αρχεία απαιτείται η εγκατάσταση του [MathType](https://store.wiris.com/en/products/mathtype/download)* 
 
