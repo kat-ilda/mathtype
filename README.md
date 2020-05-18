@@ -18,6 +18,7 @@
 ![step3](https://i.imgur.com/uOo7p2y.png)
 5. Οταν τελειώσεις κάνεις **commit** τις αλλαγές σου.
 6. Πατάς το κουμπί **Pull Request**, επιλέγεις **Create pull request**, γράφεις στα σχόλια μια περίληψη με τις αλλαγές που έκανες ή τα νέα αρχεία που ανέβασες και κάνεις Submit. <br>
-![step4]()
+![step4](https://i.imgur.com/WfKDyOF.png) <hr>
+![step5](https://i.imgur.com/GtggdFK.png) <hr>
+![step5](https://i.imgur.com/M84n1wX.png) <hr>
 7. Περιμένεις να γίνει ενα review και αν όλα ειναι οκ τότε ενημερώνουμε το original repository <br>
-![step5]()
